@@ -2,6 +2,9 @@
 
 A Chrome extension that replaces all fonts on any webpage with a Braille font at the click of a button.
 
+![Alt text not supported](content/demo.mp4)
+
+
 ## What it does
 
 Blind Mode adds a toolbar button to Chrome. Clicking it toggles a Braille font override on the active tab — all text on the page is instantly re-rendered in Braille. Click again to restore the original fonts.
