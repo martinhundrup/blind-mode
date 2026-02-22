@@ -1,0 +1,1 @@
+the "BrailleCC0" font used can be attributed to GGBotNet, taken from https://www.fontspace.com/braille-cc0-font-f96789, under the CC0 (public domain) license.
