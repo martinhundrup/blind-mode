@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "ExtensionBraille";
+  src: url("fonts/BrailleFont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-braille-font="1"] {
+  font-family: "ExtensionBraille", var(--braille-orig-font, inherit) !important;
+}

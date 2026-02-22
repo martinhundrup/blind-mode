@@ -1,0 +1,7 @@
+Place your Braille font file here:
+
+- Filename expected by content.css: BrailleFont.woff2
+- Path: braille-font-toggle/fonts/BrailleFont.woff2
+
+You must ensure you have the right to use/distribute the font.
+If you use a different filename, update content.css accordingly.
